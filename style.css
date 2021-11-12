@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.close{
+    display:none;
+}
+
+
+#list{
+    width: 50%;
+    margin-left: 2%;
+    position:absolute;
+    top: 0;
+    left: 0;
+    margin-top: 1%;
+
+}
+
+.std{
+    list-style-type: none;
+    margin-bottom:2%;
+    border: 1px solid rgb(216, 191, 82);
+
+
+}
+
+.main_search{
+    width: 30%;
+    height: 20%;
+    float: right;
+    margin-top: 1%;
+    overflow: hidden;
+    display: block;
+    margin-right: 5%;
+
+    
+   
+    
+    
+}
+
+#input_main{
+    height: 30px;
+    width: 82%;
+}
+
+#search_btn{
+    height: 32px;
+    width: 15%;
+    display: block;
+    float:right;
+    margin-right: 3px;
+    margin-top: 1px;
+
+    
+}
+   
+    
+
+#title_input{
+    color: rgb(236, 83, 12);
+    margin-bottom: 1%;
+}
